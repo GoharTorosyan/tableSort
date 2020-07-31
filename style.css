@@ -1,0 +1,19 @@
+body{
+    margin:20px;
+}
+
+
+.sortable-table,th,td{
+
+    border: 1px solid black;
+        border-collapse: collapse;
+}
+
+
+.sortable-table {
+    margin:50px;
+    width: 250px;
+}
+
+
+
